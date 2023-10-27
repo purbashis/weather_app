@@ -1,5 +1,4 @@
-// ignore: depend_on_referenced_packages
-// import 'package:bloc/bloc.dart';
+import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
 
 part 'weather_bloc_event.dart';
